@@ -9,7 +9,7 @@
 	<authorUrl>http://www.atomtech.com.br</authorUrl>
 	<version>1.0</version>
 	<description>COM_TESTIMONIALS_XML_DESCRIPTION</description>
-	<scriptfile />
+	<scriptfile>script.php</scriptfile>
 	<!-- Runs on install. -->
 	<install>
 		<sql>
