@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="package" version="3.1" method="upgrade">
+	<name>Testimonials Package</name>
+	<packagename>testimonials</packagename>
+	<version>3.1.2</version>
+	<description>Testimonials package to combine multiple extensions.</description>
+	<creationDate>Jun 2013</creationDate>
+	<copyright>Copyright (C) 2013 AtomTech, Inc. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<author>Bruno Batista</author>
+	<authorEmail>bruno@atomtech.com.br</authorEmail>
+	<authorUrl>http://www.atomtech.com.br</authorUrl>
+	<packager>Bruno Batista</packager>
+	<packagerurl>http://www.atomtech.com.br</packagerurl>
+	<update>http://www.atomtech.com.br/update</update>
+	<scriptfile />
+	<files folder="packages">
+		<file type="component" id="com_testimonials">com_testimonials</file>
+	</files>
+</extension>
