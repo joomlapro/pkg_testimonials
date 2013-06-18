@@ -41,6 +41,12 @@
 	<languages folder="site">
 		<language tag="pt-BR">language/pt-BR/pt-BR.com_testimonials.ini</language>
 	</languages>
+	<media destination="com_testimonials" folder="media">
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<filename>index.html</filename>
+	</media>
 	<administration>
 		<menu img="class:testimonials">com_testimonials</menu>
 		<submenu>
